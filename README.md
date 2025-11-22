@@ -50,8 +50,8 @@ Nou rekòmande w li liv la nan lòd, espesyalman si ou se yon debitan. Chak chap
 
 | Chapit | Tit | Deskripsyon |
 |--------|-----|-------------|
-| **Chapit 1** | [Entwodiksyon nan Otomatizasyon](n8n-claude-supabase/chapit01-entwodiksyon-otomatizasyon.md) | Konprann ki sa otomatizasyon ye, istwa li, ak enpòtans li nan mond modèn |
-| **Chapit 2** | [Konsèp Fondamantal](n8n-claude-supabase/chapit02-konsèp-debaz.md) | Aprann tèm kle, achitekti sistèm, ak prensip debaz |
+| **Chapit 1** | [Entwodiksyon nan Otomatizasyon](chapit01-entwodiksyon-otomatizasyon.md) | Konprann ki sa otomatizasyon ye, istwa li, ak enpòtans li nan mond modèn |
+| **Chapit 2** | [Konsèp Fondamantal](chapit02-konsèp-debaz.md) | Aprann tèm kle, achitekti sistèm, ak prensip debaz |
 
 ---
 
