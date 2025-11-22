@@ -60,8 +60,8 @@ Nou rekòmande w li liv la nan lòd, espesyalman si ou se yon debitan. Chak chap
 
 | Chapit | Tit | Deskripsyon |
 |--------|-----|-------------|
-| **Chapit 3** | [Entwodiksyon nan N8N](n8n-claude-supabase/chapit03-entwodiksyon-n8n.md) | Dekouvri N8N, enstalasyon, ak entèfas itilizatè |
-| **Chapit 4** | [Kreye Flodtravay ak N8N](n8n-claude-supabase/chapit04-kreye-flodtravay.md) | Aprann kreye, konfigire, ak jere flodtravay konplèks |
+| **Chapit 3** | [Entwodiksyon nan N8N](chapit03-entwodiksyon-n8n.md) | Dekouvri N8N, enstalasyon, ak entèfas itilizatè |
+| **Chapit 4** | [Kreye Flodtravay ak N8N](chapit04-kreye-flodtravay.md) | Aprann kreye, konfigire, ak jere flodtravay konplèks |
 
 ---
 
@@ -70,8 +70,8 @@ Nou rekòmande w li liv la nan lòd, espesyalman si ou se yon debitan. Chak chap
 
 | Chapit | Tit | Deskripsyon |
 |--------|-----|-------------|
-| **Chapit 5** | [Entwodiksyon nan Claude](n8n-claude-supabase/chapit05-entwodiksyon-claude.md) | Konprann ki sa Claude ye, kapasite li, ak ka itilizasyon |
-| **Chapit 6** | [Itilize API Claude](n8n-claude-supabase/chapit06-itilize-api-claude.md) | Aprann fè demann API, jere repons, ak pratik rekòmande |
+| **Chapit 5** | [Entwodiksyon nan Claude](chapit05-entwodiksyon-claude.md) | Konprann ki sa Claude ye, kapasite li, ak ka itilizasyon |
+| **Chapit 6** | [Itilize API Claude](chapit06-itilize-api-claude.md) | Aprann fè demann API, jere repons, ak pratik rekòmande |
 
 ---
 
@@ -80,8 +80,8 @@ Nou rekòmande w li liv la nan lòd, espesyalman si ou se yon debitan. Chak chap
 
 | Chapit | Tit | Deskripsyon |
 |--------|-----|-------------|
-| **Chapit 7** | [Entwodiksyon nan Supabase](n8n-claude-supabase/chapit07-entwodiksyon-supabase.md) | Dekouvri Supabase, fonksyonalite li, ak konfigirasyon inisyal |
-| **Chapit 8** | [Jere Baz Done ak Otantifikasyon](n8n-claude-supabase/chapit08-baz-done-otantifikasyon.md) | Aprann kreye tab, jere done, ak enplemante otantifikasyon |
+| **Chapit 7** | [Entwodiksyon nan Supabase](chapit07-entwodiksyon-supabase.md) | Dekouvri Supabase, fonksyonalite li, ak konfigirasyon inisyal |
+| **Chapit 8** | [Jere Baz Done ak Otantifikasyon](chapit08-baz-done-otantifikasyon.md) | Aprann kreye tab, jere done, ak enplemante otantifikasyon |
 
 ---
 
@@ -90,9 +90,9 @@ Nou rekòmande w li liv la nan lòd, espesyalman si ou se yon debitan. Chak chap
 
 | Chapit | Tit | Deskripsyon |
 |--------|-----|-------------|
-| **Chapit 9** | [Konekte N8N ak Claude](n8n-claude-supabase/chapit09-konekte-n8n-claude.md) | Kreye flodtravay entèlijan ki itilize kapasite Claude |
-| **Chapit 10** | [Konekte N8N ak Supabase](n8n-claude-supabase/chapit10-konekte-n8n-supabase.md) | Otomatize operasyon baz done ak flodtravay |
-| **Chapit 11** | [Entegrasyon Konplè](n8n-claude-supabase/chapit11-entegrasyon-konplè.md) | Konbine twa zouti yo nan yon sistèm inifye |
+| **Chapit 9** | [Konekte N8N ak Claude](chapit09-konekte-n8n-claude.md) | Kreye flodtravay entèlijan ki itilize kapasite Claude |
+| **Chapit 10** | [Konekte N8N ak Supabase](chapit10-konekte-n8n-supabase.md) | Otomatize operasyon baz done ak flodtravay |
+| **Chapit 11** | [Entegrasyon Konplè](chapit11-entegrasyon-konplè.md) | Konbine twa zouti yo nan yon sistèm inifye |
 
 ---
 
@@ -101,9 +101,9 @@ Nou rekòmande w li liv la nan lòd, espesyalman si ou se yon debitan. Chak chap
 
 | Chapit | Tit | Deskripsyon |
 |--------|-----|-------------|
-| **Chapit 12** | [Pwojè 1: Asistan Sipò Kliyan Otomatize](n8n-claude-supabase/chapit12-pwojè-chatbot.md) | Bati yon sistèm sipò kliyan ki itilize entèlijans atifisyèl |
-| **Chapit 13** | [Pwojè 2: Sistèm Jesyon Kontni](n8n-claude-supabase/chapit13-pwojè-otomatizasyon-kontni.md) | Kreye yon aplikasyon pou jere ak jenere kontni otomatikman |
-| **Chapit 14** | [Pwojè 3: Plafòm Done Entèlijan](n8n-claude-supabase/chapit14-jesyon-done.md) | Devlope yon sistèm konplè pou kolekte, analize, ak vizualize done |
+| **Chapit 12** | [Pwojè 1: Asistan Sipò Kliyan Otomatize](chapit12-pwojè-chatbot.md) | Bati yon sistèm sipò kliyan ki itilize entèlijans atifisyèl |
+| **Chapit 13** | [Pwojè 2: Sistèm Jesyon Kontni](chapit13-pwojè-otomatizasyon-kontni.md) | Kreye yon aplikasyon pou jere ak jenere kontni otomatikman |
+| **Chapit 14** | [Pwojè 3: Plafòm Done Entèlijan](chapit14-jesyon-done.md) | Devlope yon sistèm konplè pou kolekte, analize, ak vizualize done |
 
 ---
 
@@ -112,9 +112,9 @@ Nou rekòmande w li liv la nan lòd, espesyalman si ou se yon debitan. Chak chap
 
 | Seksyon | Tit | Deskripsyon |
 |---------|-----|-------------|
-| **Apendis A** | [Glosè Tèm Teknik](n8n-claude-supabase/glosè.md) | Definisyon tout tèm teknik itilize nan liv la |
-| **Apendis B** | [Resous ak Referans](n8n-claude-supabase/resous.md) | Lyen itil, dokimantasyon ofisyèl, ak materyèl aprantisaj |
-| **Apendis C** | [Endèks](n8n-claude-supabase/endèks.md) | Endèks alfabetik pou jwenn sijè rapidman |
+| **Apendis A** | [Glosè Tèm Teknik](glosè.md) | Definisyon tout tèm teknik itilize nan liv la |
+| **Apendis B** | [Resous ak Referans](resous.md) | Lyen itil, dokimantasyon ofisyèl, ak materyèl aprantisaj |
+| **Apendis C** | [Endèks](endèks.md) | Endèks alfabetik pou jwenn sijè rapidman |
 
 ---
 
